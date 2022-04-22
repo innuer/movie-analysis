@@ -41,7 +41,7 @@ This is a mini-project for SC1015 which focus on movies from movie data set.
 # What did we learnt from this project?
 1. Random decision tree and K-Nearest Neighbors 
 2. The extreme variability of the data set outlines perhaps the need for more metrics, and a more detailed exploration into other factors like Age Ratings, Country, or even other social media metrics, like those of their trailers, or twitter visibility.
-3. 
+3. Budget is definitely a massive factor
 
 
 
