@@ -1,8 +1,8 @@
 # movie-analysis
 
 # Contributors 
-1. Tay Jia Yi
-2. Sebastian Palanca
+1. Tay Jia Yi (split workload evenly)
+2. Sebastian Palanca (split workload evenly)
 
 # Introduction
 This is a mini-project for SC1015 which focus on movies from movie data set. 
